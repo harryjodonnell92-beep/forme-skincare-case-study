@@ -3,7 +3,7 @@
 <channel>
   <title>FORME Skincare case study feed (fictional)</title>
   <link>https://forme-skincare.example</link>
-  <description>Case study feed for a fictional brand (FORME). Not a real catalogue. Not for live advertising.</description>
+  <description>Case study feed for a fictional brand (FORME). Not a real catalogue. Not for live advertising. Ratings and reviews are illustrative.</description>
   <item>
     <g:id>FRM-001</g:id>
     <title>FORME Daily Cleanser 150 ml</title>
@@ -23,6 +23,14 @@
     <g:custom_label_1>Gentle gel cleanser</g:custom_label_1>
     <g:custom_label_2>Daily Cleanser</g:custom_label_2>
     <g:custom_label_3>Save 21%</g:custom_label_3>
+    <g:custom_label_4>Best seller</g:custom_label_4>
+    <best_seller>yes</best_seller>
+    <best_seller_rank>4</best_seller_rank>
+    <rating>4.8</rating>
+    <review_count>1,520</review_count>
+    <review_quote>So gentle, never tight.</review_quote>
+    <review_author>Priya S.</review_author>
+    <review_note>Illustrative - fictional review</review_note>
   </item>
   <item>
     <g:id>FRM-002</g:id>
@@ -42,6 +50,12 @@
     <g:custom_label_1>Hyaluronic acid</g:custom_label_1>
     <g:custom_label_2>Hydrating Serum</g:custom_label_2>
     <g:custom_label_4>Everyday essential</g:custom_label_4>
+    <best_seller>no</best_seller>
+    <rating>4.7</rating>
+    <review_count>640</review_count>
+    <review_quote>Plump, dewy skin all day.</review_quote>
+    <review_author>Hannah L.</review_author>
+    <review_note>Illustrative - fictional review</review_note>
   </item>
   <item>
     <g:id>FRM-003</g:id>
@@ -62,6 +76,14 @@
     <g:custom_label_1>All-day hydration</g:custom_label_1>
     <g:custom_label_2>Daily Moisturiser</g:custom_label_2>
     <g:custom_label_3>Save 19%</g:custom_label_3>
+    <g:custom_label_4>Best seller</g:custom_label_4>
+    <best_seller>yes</best_seller>
+    <best_seller_rank>3</best_seller_rank>
+    <rating>4.8</rating>
+    <review_count>1,880</review_count>
+    <review_quote>Light but so hydrating.</review_quote>
+    <review_author>Chloe R.</review_author>
+    <review_note>Illustrative - fictional review</review_note>
   </item>
   <item>
     <g:id>FRM-004</g:id>
@@ -81,6 +103,12 @@
     <g:custom_label_1>Overnight repair</g:custom_label_1>
     <g:custom_label_2>Night Recovery Cream</g:custom_label_2>
     <g:custom_label_4>Everyday essential</g:custom_label_4>
+    <best_seller>no</best_seller>
+    <rating>4.6</rating>
+    <review_count>410</review_count>
+    <review_quote>Wake up to calmer skin.</review_quote>
+    <review_author>Laura M.</review_author>
+    <review_note>Illustrative - fictional review</review_note>
   </item>
   <item>
     <g:id>FRM-005</g:id>
@@ -101,6 +129,14 @@
     <g:custom_label_1>Brightening</g:custom_label_1>
     <g:custom_label_2>Vitamin C Serum</g:custom_label_2>
     <g:custom_label_3>Save 19%</g:custom_label_3>
+    <g:custom_label_4>Best seller</g:custom_label_4>
+    <best_seller>yes</best_seller>
+    <best_seller_rank>2</best_seller_rank>
+    <rating>4.8</rating>
+    <review_count>2,310</review_count>
+    <review_quote>My skin has never looked brighter.</review_quote>
+    <review_author>Maya T.</review_author>
+    <review_note>Illustrative - fictional review</review_note>
   </item>
   <item>
     <g:id>FRM-006</g:id>
@@ -120,6 +156,12 @@
     <g:custom_label_1>Broad-spectrum SPF 50</g:custom_label_1>
     <g:custom_label_2>SPF 50 Protection</g:custom_label_2>
     <g:custom_label_4>Everyday essential</g:custom_label_4>
+    <best_seller>no</best_seller>
+    <rating>4.7</rating>
+    <review_count>970</review_count>
+    <review_quote>No white cast. Finally.</review_quote>
+    <review_author>Sophie K.</review_author>
+    <review_note>Illustrative - fictional review</review_note>
   </item>
   <item>
     <g:id>FRM-007</g:id>
@@ -140,6 +182,12 @@
     <g:custom_label_1>Melts away make-up</g:custom_label_1>
     <g:custom_label_2>Cleansing Balm</g:custom_label_2>
     <g:custom_label_3>Save 20%</g:custom_label_3>
+    <best_seller>no</best_seller>
+    <rating>4.8</rating>
+    <review_count>1,240</review_count>
+    <review_quote>Melts make-up in seconds.</review_quote>
+    <review_author>Amira K.</review_author>
+    <review_note>Illustrative - fictional review</review_note>
   </item>
   <item>
     <g:id>FRM-008</g:id>
@@ -159,6 +207,12 @@
     <g:custom_label_1>Non-foaming cream</g:custom_label_1>
     <g:custom_label_2>Cream Cleanser</g:custom_label_2>
     <g:custom_label_4>Everyday essential</g:custom_label_4>
+    <best_seller>no</best_seller>
+    <rating>4.6</rating>
+    <review_count>380</review_count>
+    <review_quote>Soft, calm, never stripped.</review_quote>
+    <review_author>Ellie W.</review_author>
+    <review_note>Illustrative - fictional review</review_note>
   </item>
   <item>
     <g:id>FRM-009</g:id>
@@ -179,6 +233,12 @@
     <g:custom_label_1>Gentle enzyme exfoliation</g:custom_label_1>
     <g:custom_label_2>Exfoliating Cleanser</g:custom_label_2>
     <g:custom_label_3>Save 19%</g:custom_label_3>
+    <best_seller>no</best_seller>
+    <rating>4.5</rating>
+    <review_count>290</review_count>
+    <review_quote>Smoother skin in a week.</review_quote>
+    <review_author>Jess P.</review_author>
+    <review_note>Illustrative - fictional review</review_note>
   </item>
   <item>
     <g:id>FRM-010</g:id>
@@ -198,6 +258,12 @@
     <g:custom_label_1>Rebalances after cleansing</g:custom_label_1>
     <g:custom_label_2>Balancing Toner</g:custom_label_2>
     <g:custom_label_4>Everyday essential</g:custom_label_4>
+    <best_seller>no</best_seller>
+    <rating>4.6</rating>
+    <review_count>350</review_count>
+    <review_quote>A gentle reset after cleansing.</review_quote>
+    <review_author>Nina B.</review_author>
+    <review_note>Illustrative - fictional review</review_note>
   </item>
   <item>
     <g:id>FRM-011</g:id>
@@ -218,6 +284,12 @@
     <g:custom_label_1>Instant refresh</g:custom_label_1>
     <g:custom_label_2>Hydrating Mist</g:custom_label_2>
     <g:custom_label_3>Save 20%</g:custom_label_3>
+    <best_seller>no</best_seller>
+    <rating>4.9</rating>
+    <review_count>860</review_count>
+    <review_quote>A fresh hit of hydration.</review_quote>
+    <review_author>Grace H.</review_author>
+    <review_note>Illustrative - fictional review</review_note>
   </item>
   <item>
     <g:id>FRM-012</g:id>
@@ -237,6 +309,12 @@
     <g:custom_label_1>5% glycolic acid</g:custom_label_1>
     <g:custom_label_2>AHA Exfoliating Toner</g:custom_label_2>
     <g:custom_label_4>Everyday essential</g:custom_label_4>
+    <best_seller>no</best_seller>
+    <rating>4.6</rating>
+    <review_count>520</review_count>
+    <review_quote>Glow without the sting.</review_quote>
+    <review_author>Olivia D.</review_author>
+    <review_note>Illustrative - fictional review</review_note>
   </item>
   <item>
     <g:id>FRM-013</g:id>
@@ -257,6 +335,12 @@
     <g:custom_label_1>10% niacinamide</g:custom_label_1>
     <g:custom_label_2>Niacinamide Serum</g:custom_label_2>
     <g:custom_label_3>Save 20%</g:custom_label_3>
+    <best_seller>no</best_seller>
+    <rating>4.7</rating>
+    <review_count>1,130</review_count>
+    <review_quote>Pores look so much smaller.</review_quote>
+    <review_author>Zara N.</review_author>
+    <review_note>Illustrative - fictional review</review_note>
   </item>
   <item>
     <g:id>FRM-014</g:id>
@@ -276,6 +360,12 @@
     <g:custom_label_1>0.3% encapsulated retinol</g:custom_label_1>
     <g:custom_label_2>Retinol Serum</g:custom_label_2>
     <g:custom_label_4>Everyday essential</g:custom_label_4>
+    <best_seller>no</best_seller>
+    <rating>4.6</rating>
+    <review_count>700</review_count>
+    <review_quote>Smooth skin, zero irritation.</review_quote>
+    <review_author>Ruth C.</review_author>
+    <review_note>Illustrative - fictional review</review_note>
   </item>
   <item>
     <g:id>FRM-015</g:id>
@@ -296,6 +386,14 @@
     <g:custom_label_1>Firming peptides</g:custom_label_1>
     <g:custom_label_2>Peptide Serum</g:custom_label_2>
     <g:custom_label_3>Save 19%</g:custom_label_3>
+    <g:custom_label_4>Best seller</g:custom_label_4>
+    <best_seller>yes</best_seller>
+    <best_seller_rank>5</best_seller_rank>
+    <rating>4.8</rating>
+    <review_count>1,460</review_count>
+    <review_quote>Bouncier skin, every morning.</review_quote>
+    <review_author>Isla F.</review_author>
+    <review_note>Illustrative - fictional review</review_note>
   </item>
   <item>
     <g:id>FRM-016</g:id>
@@ -316,6 +414,12 @@
     <g:custom_label_1>Squalane + rosehip</g:custom_label_1>
     <g:custom_label_2>Face Oil</g:custom_label_2>
     <g:custom_label_3>Save 20%</g:custom_label_3>
+    <best_seller>no</best_seller>
+    <rating>4.7</rating>
+    <review_count>590</review_count>
+    <review_quote>A glow that lasts all day.</review_quote>
+    <review_author>Leah J.</review_author>
+    <review_note>Illustrative - fictional review</review_note>
   </item>
   <item>
     <g:id>FRM-017</g:id>
@@ -335,6 +439,12 @@
     <g:custom_label_1>Lightweight gel cream</g:custom_label_1>
     <g:custom_label_2>Gel Moisturiser</g:custom_label_2>
     <g:custom_label_4>Everyday essential</g:custom_label_4>
+    <best_seller>no</best_seller>
+    <rating>4.6</rating>
+    <review_count>430</review_count>
+    <review_quote>Cool, light, never greasy.</review_quote>
+    <review_author>Amy G.</review_author>
+    <review_note>Illustrative - fictional review</review_note>
   </item>
   <item>
     <g:id>FRM-018</g:id>
@@ -355,6 +465,12 @@
     <g:custom_label_1>Ceramide repair</g:custom_label_1>
     <g:custom_label_2>Barrier Cream</g:custom_label_2>
     <g:custom_label_3>Save 21%</g:custom_label_3>
+    <best_seller>no</best_seller>
+    <rating>4.8</rating>
+    <review_count>760</review_count>
+    <review_quote>Saved my winter skin.</review_quote>
+    <review_author>Kate O.</review_author>
+    <review_note>Illustrative - fictional review</review_note>
   </item>
   <item>
     <g:id>FRM-019</g:id>
@@ -374,6 +490,12 @@
     <g:custom_label_1>Smooths and depuffs</g:custom_label_1>
     <g:custom_label_2>Eye Cream</g:custom_label_2>
     <g:custom_label_4>Everyday essential</g:custom_label_4>
+    <best_seller>no</best_seller>
+    <rating>4.5</rating>
+    <review_count>330</review_count>
+    <review_quote>Less puffy, fast.</review_quote>
+    <review_author>Beth A.</review_author>
+    <review_note>Illustrative - fictional review</review_note>
   </item>
   <item>
     <g:id>FRM-020</g:id>
@@ -394,6 +516,12 @@
     <g:custom_label_1>Purifying kaolin clay</g:custom_label_1>
     <g:custom_label_2>Clay Mask</g:custom_label_2>
     <g:custom_label_3>Save 23%</g:custom_label_3>
+    <best_seller>no</best_seller>
+    <rating>4.6</rating>
+    <review_count>480</review_count>
+    <review_quote>Clearer skin after one use.</review_quote>
+    <review_author>Mia V.</review_author>
+    <review_note>Illustrative - fictional review</review_note>
   </item>
   <item>
     <g:id>FRM-021</g:id>
@@ -413,6 +541,12 @@
     <g:custom_label_1>Sleeping mask</g:custom_label_1>
     <g:custom_label_2>Overnight Mask</g:custom_label_2>
     <g:custom_label_4>Everyday essential</g:custom_label_4>
+    <best_seller>no</best_seller>
+    <rating>4.7</rating>
+    <review_count>390</review_count>
+    <review_quote>Wake up plump and rested.</review_quote>
+    <review_author>Holly E.</review_author>
+    <review_note>Illustrative - fictional review</review_note>
   </item>
   <item>
     <g:id>FRM-022</g:id>
@@ -433,6 +567,12 @@
     <g:custom_label_1>Lightweight fluid</g:custom_label_1>
     <g:custom_label_2>SPF 30 Daily Fluid</g:custom_label_2>
     <g:custom_label_3>Save 20%</g:custom_label_3>
+    <best_seller>no</best_seller>
+    <rating>4.7</rating>
+    <review_count>650</review_count>
+    <review_quote>SPF I actually want to wear.</review_quote>
+    <review_author>Rosie Y.</review_author>
+    <review_note>Illustrative - fictional review</review_note>
   </item>
   <item>
     <g:id>FRM-023</g:id>
@@ -452,6 +592,12 @@
     <g:custom_label_1>Sheer tint</g:custom_label_1>
     <g:custom_label_2>Tinted SPF 30</g:custom_label_2>
     <g:custom_label_4>Everyday essential</g:custom_label_4>
+    <best_seller>no</best_seller>
+    <rating>4.5</rating>
+    <review_count>440</review_count>
+    <review_quote>Even skin, sheer finish.</review_quote>
+    <review_author>Anna Q.</review_author>
+    <review_note>Illustrative - fictional review</review_note>
   </item>
   <item>
     <g:id>FRM-024</g:id>
@@ -471,6 +617,12 @@
     <g:custom_label_1>Nourishing lip balm</g:custom_label_1>
     <g:custom_label_2>Lip Balm</g:custom_label_2>
     <g:custom_label_4>Everyday essential</g:custom_label_4>
+    <best_seller>no</best_seller>
+    <rating>4.7</rating>
+    <review_count>820</review_count>
+    <review_quote>Softest lips, all day.</review_quote>
+    <review_author>Lucy I.</review_author>
+    <review_note>Illustrative - fictional review</review_note>
   </item>
   <item>
     <g:id>FRM-025</g:id>
@@ -491,6 +643,14 @@
     <g:custom_label_1>Daily body hydration</g:custom_label_1>
     <g:custom_label_2>Body Lotion</g:custom_label_2>
     <g:custom_label_3>Save 21%</g:custom_label_3>
+    <g:custom_label_4>Best seller</g:custom_label_4>
+    <best_seller>yes</best_seller>
+    <best_seller_rank>1</best_seller_rank>
+    <rating>4.9</rating>
+    <review_count>2,740</review_count>
+    <review_quote>Skin stays soft all day.</review_quote>
+    <review_author>Emma Z.</review_author>
+    <review_note>Illustrative - fictional review</review_note>
   </item>
 </channel>
 </rss>
