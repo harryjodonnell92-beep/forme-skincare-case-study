@@ -19,11 +19,11 @@
     <g:google_product_category>Health &amp; Beauty &gt; Personal Care &gt; Cosmetics &gt; Skin Care</g:google_product_category>
     <g:product_type>Cleansers</g:product_type>
     <g:size>150 ml</g:size>
-    <g:custom_label_0>On sale</g:custom_label_0>
+    <g:custom_label_0>N°01</g:custom_label_0>
+    <g:custom_label_3>“So gentle, never tight.”</g:custom_label_3>
+    <g:custom_label_4>Best seller</g:custom_label_4>
     <g:custom_label_1>Gentle gel cleanser</g:custom_label_1>
     <g:custom_label_2>Daily Cleanser</g:custom_label_2>
-    <g:custom_label_3>Save 21%</g:custom_label_3>
-    <g:custom_label_4>Best seller</g:custom_label_4>
     <best_seller>yes</best_seller>
     <best_seller_rank>4</best_seller_rank>
     <rating>4.8</rating>
@@ -46,10 +46,10 @@
     <g:google_product_category>Health &amp; Beauty &gt; Personal Care &gt; Cosmetics &gt; Skin Care</g:google_product_category>
     <g:product_type>Serums</g:product_type>
     <g:size>30 ml</g:size>
-    <g:custom_label_0>Full price</g:custom_label_0>
+    <g:custom_label_0>N°02</g:custom_label_0>
+    <g:custom_label_3>“Plump, dewy skin all day.”</g:custom_label_3>
     <g:custom_label_1>Hyaluronic acid</g:custom_label_1>
     <g:custom_label_2>Hydrating Serum</g:custom_label_2>
-    <g:custom_label_4>Everyday essential</g:custom_label_4>
     <best_seller>no</best_seller>
     <rating>4.7</rating>
     <review_count>640</review_count>
@@ -72,11 +72,11 @@
     <g:google_product_category>Health &amp; Beauty &gt; Personal Care &gt; Cosmetics &gt; Skin Care</g:google_product_category>
     <g:product_type>Moisturisers</g:product_type>
     <g:size>50 ml</g:size>
-    <g:custom_label_0>On sale</g:custom_label_0>
+    <g:custom_label_0>N°03</g:custom_label_0>
+    <g:custom_label_3>“Light but so hydrating.”</g:custom_label_3>
+    <g:custom_label_4>Best seller</g:custom_label_4>
     <g:custom_label_1>All-day hydration</g:custom_label_1>
     <g:custom_label_2>Daily Moisturiser</g:custom_label_2>
-    <g:custom_label_3>Save 19%</g:custom_label_3>
-    <g:custom_label_4>Best seller</g:custom_label_4>
     <best_seller>yes</best_seller>
     <best_seller_rank>3</best_seller_rank>
     <rating>4.8</rating>
@@ -99,10 +99,10 @@
     <g:google_product_category>Health &amp; Beauty &gt; Personal Care &gt; Cosmetics &gt; Skin Care</g:google_product_category>
     <g:product_type>Moisturisers</g:product_type>
     <g:size>50 ml</g:size>
-    <g:custom_label_0>Full price</g:custom_label_0>
+    <g:custom_label_0>N°04</g:custom_label_0>
+    <g:custom_label_3>“Wake up to calmer skin.”</g:custom_label_3>
     <g:custom_label_1>Overnight repair</g:custom_label_1>
     <g:custom_label_2>Night Recovery Cream</g:custom_label_2>
-    <g:custom_label_4>Everyday essential</g:custom_label_4>
     <best_seller>no</best_seller>
     <rating>4.6</rating>
     <review_count>410</review_count>
@@ -125,11 +125,11 @@
     <g:google_product_category>Health &amp; Beauty &gt; Personal Care &gt; Cosmetics &gt; Skin Care</g:google_product_category>
     <g:product_type>Serums</g:product_type>
     <g:size>30 ml</g:size>
-    <g:custom_label_0>On sale</g:custom_label_0>
+    <g:custom_label_0>N°05</g:custom_label_0>
+    <g:custom_label_3>“My skin has never looked brighter.”</g:custom_label_3>
+    <g:custom_label_4>Best seller</g:custom_label_4>
     <g:custom_label_1>Brightening</g:custom_label_1>
     <g:custom_label_2>Vitamin C Serum</g:custom_label_2>
-    <g:custom_label_3>Save 19%</g:custom_label_3>
-    <g:custom_label_4>Best seller</g:custom_label_4>
     <best_seller>yes</best_seller>
     <best_seller_rank>2</best_seller_rank>
     <rating>4.8</rating>
@@ -152,10 +152,10 @@
     <g:google_product_category>Health &amp; Beauty &gt; Personal Care &gt; Cosmetics &gt; Skin Care</g:google_product_category>
     <g:product_type>Sun care</g:product_type>
     <g:size>50 ml</g:size>
-    <g:custom_label_0>Full price</g:custom_label_0>
+    <g:custom_label_0>N°06</g:custom_label_0>
+    <g:custom_label_3>“No white cast. Finally.”</g:custom_label_3>
     <g:custom_label_1>Broad-spectrum SPF 50</g:custom_label_1>
     <g:custom_label_2>SPF 50 Protection</g:custom_label_2>
-    <g:custom_label_4>Everyday essential</g:custom_label_4>
     <best_seller>no</best_seller>
     <rating>4.7</rating>
     <review_count>970</review_count>
@@ -178,10 +178,10 @@
     <g:google_product_category>Health &amp; Beauty &gt; Personal Care &gt; Cosmetics &gt; Skin Care</g:google_product_category>
     <g:product_type>Cleansers</g:product_type>
     <g:size>100 ml</g:size>
-    <g:custom_label_0>On sale</g:custom_label_0>
+    <g:custom_label_0>N°07</g:custom_label_0>
+    <g:custom_label_3>“Melts make-up in seconds.”</g:custom_label_3>
     <g:custom_label_1>Melts away make-up</g:custom_label_1>
     <g:custom_label_2>Cleansing Balm</g:custom_label_2>
-    <g:custom_label_3>Save 20%</g:custom_label_3>
     <best_seller>no</best_seller>
     <rating>4.8</rating>
     <review_count>1,240</review_count>
@@ -203,10 +203,10 @@
     <g:google_product_category>Health &amp; Beauty &gt; Personal Care &gt; Cosmetics &gt; Skin Care</g:google_product_category>
     <g:product_type>Cleansers</g:product_type>
     <g:size>150 ml</g:size>
-    <g:custom_label_0>Full price</g:custom_label_0>
+    <g:custom_label_0>N°08</g:custom_label_0>
+    <g:custom_label_3>“Soft, calm, never stripped.”</g:custom_label_3>
     <g:custom_label_1>Non-foaming cream</g:custom_label_1>
     <g:custom_label_2>Cream Cleanser</g:custom_label_2>
-    <g:custom_label_4>Everyday essential</g:custom_label_4>
     <best_seller>no</best_seller>
     <rating>4.6</rating>
     <review_count>380</review_count>
@@ -229,10 +229,10 @@
     <g:google_product_category>Health &amp; Beauty &gt; Personal Care &gt; Cosmetics &gt; Skin Care</g:google_product_category>
     <g:product_type>Cleansers</g:product_type>
     <g:size>120 ml</g:size>
-    <g:custom_label_0>On sale</g:custom_label_0>
+    <g:custom_label_0>N°09</g:custom_label_0>
+    <g:custom_label_3>“Smoother skin in a week.”</g:custom_label_3>
     <g:custom_label_1>Gentle enzyme exfoliation</g:custom_label_1>
     <g:custom_label_2>Exfoliating Cleanser</g:custom_label_2>
-    <g:custom_label_3>Save 19%</g:custom_label_3>
     <best_seller>no</best_seller>
     <rating>4.5</rating>
     <review_count>290</review_count>
@@ -254,10 +254,10 @@
     <g:google_product_category>Health &amp; Beauty &gt; Personal Care &gt; Cosmetics &gt; Skin Care</g:google_product_category>
     <g:product_type>Toners</g:product_type>
     <g:size>150 ml</g:size>
-    <g:custom_label_0>Full price</g:custom_label_0>
+    <g:custom_label_0>N°10</g:custom_label_0>
+    <g:custom_label_3>“A gentle reset after cleansing.”</g:custom_label_3>
     <g:custom_label_1>Rebalances after cleansing</g:custom_label_1>
     <g:custom_label_2>Balancing Toner</g:custom_label_2>
-    <g:custom_label_4>Everyday essential</g:custom_label_4>
     <best_seller>no</best_seller>
     <rating>4.6</rating>
     <review_count>350</review_count>
@@ -280,10 +280,10 @@
     <g:google_product_category>Health &amp; Beauty &gt; Personal Care &gt; Cosmetics &gt; Skin Care</g:google_product_category>
     <g:product_type>Toners</g:product_type>
     <g:size>100 ml</g:size>
-    <g:custom_label_0>On sale</g:custom_label_0>
+    <g:custom_label_0>N°11</g:custom_label_0>
+    <g:custom_label_3>“A fresh hit of hydration.”</g:custom_label_3>
     <g:custom_label_1>Instant refresh</g:custom_label_1>
     <g:custom_label_2>Hydrating Mist</g:custom_label_2>
-    <g:custom_label_3>Save 20%</g:custom_label_3>
     <best_seller>no</best_seller>
     <rating>4.9</rating>
     <review_count>860</review_count>
@@ -305,10 +305,10 @@
     <g:google_product_category>Health &amp; Beauty &gt; Personal Care &gt; Cosmetics &gt; Skin Care</g:google_product_category>
     <g:product_type>Toners</g:product_type>
     <g:size>150 ml</g:size>
-    <g:custom_label_0>Full price</g:custom_label_0>
+    <g:custom_label_0>N°12</g:custom_label_0>
+    <g:custom_label_3>“Glow without the sting.”</g:custom_label_3>
     <g:custom_label_1>5% glycolic acid</g:custom_label_1>
     <g:custom_label_2>AHA Exfoliating Toner</g:custom_label_2>
-    <g:custom_label_4>Everyday essential</g:custom_label_4>
     <best_seller>no</best_seller>
     <rating>4.6</rating>
     <review_count>520</review_count>
@@ -331,10 +331,10 @@
     <g:google_product_category>Health &amp; Beauty &gt; Personal Care &gt; Cosmetics &gt; Skin Care</g:google_product_category>
     <g:product_type>Serums</g:product_type>
     <g:size>30 ml</g:size>
-    <g:custom_label_0>On sale</g:custom_label_0>
+    <g:custom_label_0>N°13</g:custom_label_0>
+    <g:custom_label_3>“Pores look so much smaller.”</g:custom_label_3>
     <g:custom_label_1>10% niacinamide</g:custom_label_1>
     <g:custom_label_2>Niacinamide Serum</g:custom_label_2>
-    <g:custom_label_3>Save 20%</g:custom_label_3>
     <best_seller>no</best_seller>
     <rating>4.7</rating>
     <review_count>1,130</review_count>
@@ -356,10 +356,10 @@
     <g:google_product_category>Health &amp; Beauty &gt; Personal Care &gt; Cosmetics &gt; Skin Care</g:google_product_category>
     <g:product_type>Serums</g:product_type>
     <g:size>30 ml</g:size>
-    <g:custom_label_0>Full price</g:custom_label_0>
+    <g:custom_label_0>N°14</g:custom_label_0>
+    <g:custom_label_3>“Smooth skin, zero irritation.”</g:custom_label_3>
     <g:custom_label_1>0.3% encapsulated retinol</g:custom_label_1>
     <g:custom_label_2>Retinol Serum</g:custom_label_2>
-    <g:custom_label_4>Everyday essential</g:custom_label_4>
     <best_seller>no</best_seller>
     <rating>4.6</rating>
     <review_count>700</review_count>
@@ -382,11 +382,11 @@
     <g:google_product_category>Health &amp; Beauty &gt; Personal Care &gt; Cosmetics &gt; Skin Care</g:google_product_category>
     <g:product_type>Serums</g:product_type>
     <g:size>30 ml</g:size>
-    <g:custom_label_0>On sale</g:custom_label_0>
+    <g:custom_label_0>N°15</g:custom_label_0>
+    <g:custom_label_3>“Bouncier skin, every morning.”</g:custom_label_3>
+    <g:custom_label_4>Best seller</g:custom_label_4>
     <g:custom_label_1>Firming peptides</g:custom_label_1>
     <g:custom_label_2>Peptide Serum</g:custom_label_2>
-    <g:custom_label_3>Save 19%</g:custom_label_3>
-    <g:custom_label_4>Best seller</g:custom_label_4>
     <best_seller>yes</best_seller>
     <best_seller_rank>5</best_seller_rank>
     <rating>4.8</rating>
@@ -410,10 +410,10 @@
     <g:google_product_category>Health &amp; Beauty &gt; Personal Care &gt; Cosmetics &gt; Skin Care</g:google_product_category>
     <g:product_type>Face oils</g:product_type>
     <g:size>30 ml</g:size>
-    <g:custom_label_0>On sale</g:custom_label_0>
+    <g:custom_label_0>N°16</g:custom_label_0>
+    <g:custom_label_3>“A glow that lasts all day.”</g:custom_label_3>
     <g:custom_label_1>Squalane + rosehip</g:custom_label_1>
     <g:custom_label_2>Face Oil</g:custom_label_2>
-    <g:custom_label_3>Save 20%</g:custom_label_3>
     <best_seller>no</best_seller>
     <rating>4.7</rating>
     <review_count>590</review_count>
@@ -435,10 +435,10 @@
     <g:google_product_category>Health &amp; Beauty &gt; Personal Care &gt; Cosmetics &gt; Skin Care</g:google_product_category>
     <g:product_type>Moisturisers</g:product_type>
     <g:size>50 ml</g:size>
-    <g:custom_label_0>Full price</g:custom_label_0>
+    <g:custom_label_0>N°17</g:custom_label_0>
+    <g:custom_label_3>“Cool, light, never greasy.”</g:custom_label_3>
     <g:custom_label_1>Lightweight gel cream</g:custom_label_1>
     <g:custom_label_2>Gel Moisturiser</g:custom_label_2>
-    <g:custom_label_4>Everyday essential</g:custom_label_4>
     <best_seller>no</best_seller>
     <rating>4.6</rating>
     <review_count>430</review_count>
@@ -461,10 +461,10 @@
     <g:google_product_category>Health &amp; Beauty &gt; Personal Care &gt; Cosmetics &gt; Skin Care</g:google_product_category>
     <g:product_type>Moisturisers</g:product_type>
     <g:size>50 ml</g:size>
-    <g:custom_label_0>On sale</g:custom_label_0>
+    <g:custom_label_0>N°18</g:custom_label_0>
+    <g:custom_label_3>“Saved my winter skin.”</g:custom_label_3>
     <g:custom_label_1>Ceramide repair</g:custom_label_1>
     <g:custom_label_2>Barrier Cream</g:custom_label_2>
-    <g:custom_label_3>Save 21%</g:custom_label_3>
     <best_seller>no</best_seller>
     <rating>4.8</rating>
     <review_count>760</review_count>
@@ -486,10 +486,10 @@
     <g:google_product_category>Health &amp; Beauty &gt; Personal Care &gt; Cosmetics &gt; Skin Care</g:google_product_category>
     <g:product_type>Eye care</g:product_type>
     <g:size>15 ml</g:size>
-    <g:custom_label_0>Full price</g:custom_label_0>
+    <g:custom_label_0>N°19</g:custom_label_0>
+    <g:custom_label_3>“Less puffy, fast.”</g:custom_label_3>
     <g:custom_label_1>Smooths and depuffs</g:custom_label_1>
     <g:custom_label_2>Eye Cream</g:custom_label_2>
-    <g:custom_label_4>Everyday essential</g:custom_label_4>
     <best_seller>no</best_seller>
     <rating>4.5</rating>
     <review_count>330</review_count>
@@ -512,10 +512,10 @@
     <g:google_product_category>Health &amp; Beauty &gt; Personal Care &gt; Cosmetics &gt; Skin Care</g:google_product_category>
     <g:product_type>Masks</g:product_type>
     <g:size>75 ml</g:size>
-    <g:custom_label_0>On sale</g:custom_label_0>
+    <g:custom_label_0>N°20</g:custom_label_0>
+    <g:custom_label_3>“Clearer skin after one use.”</g:custom_label_3>
     <g:custom_label_1>Purifying kaolin clay</g:custom_label_1>
     <g:custom_label_2>Clay Mask</g:custom_label_2>
-    <g:custom_label_3>Save 23%</g:custom_label_3>
     <best_seller>no</best_seller>
     <rating>4.6</rating>
     <review_count>480</review_count>
@@ -537,10 +537,10 @@
     <g:google_product_category>Health &amp; Beauty &gt; Personal Care &gt; Cosmetics &gt; Skin Care</g:google_product_category>
     <g:product_type>Masks</g:product_type>
     <g:size>75 ml</g:size>
-    <g:custom_label_0>Full price</g:custom_label_0>
+    <g:custom_label_0>N°21</g:custom_label_0>
+    <g:custom_label_3>“Wake up plump and rested.”</g:custom_label_3>
     <g:custom_label_1>Sleeping mask</g:custom_label_1>
     <g:custom_label_2>Overnight Mask</g:custom_label_2>
-    <g:custom_label_4>Everyday essential</g:custom_label_4>
     <best_seller>no</best_seller>
     <rating>4.7</rating>
     <review_count>390</review_count>
@@ -563,10 +563,10 @@
     <g:google_product_category>Health &amp; Beauty &gt; Personal Care &gt; Cosmetics &gt; Skin Care</g:google_product_category>
     <g:product_type>Sun care</g:product_type>
     <g:size>50 ml</g:size>
-    <g:custom_label_0>On sale</g:custom_label_0>
+    <g:custom_label_0>N°22</g:custom_label_0>
+    <g:custom_label_3>“SPF I actually want to wear.”</g:custom_label_3>
     <g:custom_label_1>Lightweight fluid</g:custom_label_1>
     <g:custom_label_2>SPF 30 Daily Fluid</g:custom_label_2>
-    <g:custom_label_3>Save 20%</g:custom_label_3>
     <best_seller>no</best_seller>
     <rating>4.7</rating>
     <review_count>650</review_count>
@@ -588,10 +588,10 @@
     <g:google_product_category>Health &amp; Beauty &gt; Personal Care &gt; Cosmetics &gt; Skin Care</g:google_product_category>
     <g:product_type>Sun care</g:product_type>
     <g:size>40 ml</g:size>
-    <g:custom_label_0>Full price</g:custom_label_0>
+    <g:custom_label_0>N°23</g:custom_label_0>
+    <g:custom_label_3>“Even skin, sheer finish.”</g:custom_label_3>
     <g:custom_label_1>Sheer tint</g:custom_label_1>
     <g:custom_label_2>Tinted SPF 30</g:custom_label_2>
-    <g:custom_label_4>Everyday essential</g:custom_label_4>
     <best_seller>no</best_seller>
     <rating>4.5</rating>
     <review_count>440</review_count>
@@ -613,10 +613,10 @@
     <g:google_product_category>Health &amp; Beauty &gt; Personal Care &gt; Cosmetics &gt; Skin Care</g:google_product_category>
     <g:product_type>Lip care</g:product_type>
     <g:size>15 ml</g:size>
-    <g:custom_label_0>Full price</g:custom_label_0>
+    <g:custom_label_0>N°24</g:custom_label_0>
+    <g:custom_label_3>“Softest lips, all day.”</g:custom_label_3>
     <g:custom_label_1>Nourishing lip balm</g:custom_label_1>
     <g:custom_label_2>Lip Balm</g:custom_label_2>
-    <g:custom_label_4>Everyday essential</g:custom_label_4>
     <best_seller>no</best_seller>
     <rating>4.7</rating>
     <review_count>820</review_count>
@@ -639,11 +639,11 @@
     <g:google_product_category>Health &amp; Beauty &gt; Personal Care &gt; Cosmetics &gt; Skin Care</g:google_product_category>
     <g:product_type>Body care</g:product_type>
     <g:size>250 ml</g:size>
-    <g:custom_label_0>On sale</g:custom_label_0>
+    <g:custom_label_0>N°25</g:custom_label_0>
+    <g:custom_label_3>“Skin stays soft all day.”</g:custom_label_3>
+    <g:custom_label_4>Best seller</g:custom_label_4>
     <g:custom_label_1>Daily body hydration</g:custom_label_1>
     <g:custom_label_2>Body Lotion</g:custom_label_2>
-    <g:custom_label_3>Save 21%</g:custom_label_3>
-    <g:custom_label_4>Best seller</g:custom_label_4>
     <best_seller>yes</best_seller>
     <best_seller_rank>1</best_seller_rank>
     <rating>4.9</rating>
